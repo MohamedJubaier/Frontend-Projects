@@ -1,0 +1,191 @@
+[
+    {
+        "id": 1,
+        "name": "Burger",
+        "amt": "99",
+        "shop": "Burger Shop",
+        "details": "Grilled or fried patty with bun, lettuce, tomato, and sauce.",
+        "image": "https://nomoneynotime.com.au/uploads/recipes/shutterstock_257496871-1.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 2,
+        "name": "Pizza",
+        "amt": "199",
+        "shop": "Pizza Hut",
+        "details": "Flatbread topped with tomato sauce, cheese, and various toppings.",
+        "image": "https://septemberfarmcheese.b-cdn.net/wp-content/uploads/Blogs/Homemade-Pizza/homemade-pizza-monterey-jack-cheese.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 3,
+        "name": "Fried Chicken",
+        "amt": "699",
+        "shop": "Fried Chicken Shop",
+        "details": "Chicken pieces seasoned and deep-fried.",
+        "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2023/2/23/FNK_Indian-Fried-Chicken_s4x3.jpg.rend.hgtvcom.1280.960.suffix/1677264108617.webp",
+        "latest": "No"
+    },
+    {
+        "id": 4,
+        "name": "Hot Dog",
+        "amt": "150",
+        "shop": "Hot Dog Shop",
+        "details": "Sausage served in a sliced bun with condiments.",
+        "image": "https://www.gardengourmet.com/sites/default/files/recipes/83393badc124840730cb91e3cd839b93_220516_gg_q3_recipe_hotdogs_v3.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 5,
+        "name": "French Fries",
+        "amt": "100",
+        "shop": "French Fries Shop",
+        "details": "Deep-fried potato strips, usually salted.",
+        "image": "https://static.toiimg.com/thumb/54659021.cms?imgsize=275086&width=800&height=800",
+        "latest": "No"
+    },
+    {
+        "id": 6,
+        "name": "Taco",
+        "amt": "200",
+        "shop": "Tacos Shop",
+        "details": "Folded tortilla filled with meat, cheese, and vegetables.",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/001_Tacos_de_carnitas%2C_carne_asada_y_al_pastor.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 7,
+        "name": "Sandwich",
+        "amt": "79",
+        "shop": "Sandwich Shop",
+        "details": "Two slices of bread with fillings like meat, cheese, and veggies.",
+        "image": "https://static.toiimg.com/thumb/83740315.cms?width=1200&height=900",
+        "latest": "No"
+    },
+    {
+        "id": 8,
+        "name": "Onion Rings",
+        "amt": "199",
+        "shop": "Onion Rings Shop",
+        "details": "Deep-fried onion slices in batter.",
+        "image": "https://www.recipeworkbook.com/wp-content/uploads/2021/09/onion-rings3.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 9,
+        "name": "Chicken Nuggets",
+        "amt": "299",
+        "shop": "Chicken Nuggets Shop",
+        "details": "Bite-sized breaded and fried chicken pieces.",
+        "image": "https://www.allrecipes.com/thmb/Dw_WFOvCds43ksPxkrE60qxcwSk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-8849-HomemadeChickenNuggets-beauty-4x3-ca915ee936054272af1b506181923c7f.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 10,
+        "name": "Wrap",
+        "amt": "149",
+        "shop": "Wrap Shop",
+        "details": "Tortilla filled with meat, vegetables, and sauce.",
+        "image": "https://static.toiimg.com/thumb/75456053.cms?width=1200&height=900",
+        "latest": "Yes"
+    },
+    {
+        "id": 11,
+        "name": "Nachos",
+        "amt": "49",
+        "shop": "Nachos Shop",
+        "details": "Tortilla chips topped with cheese, salsa, and jalape\u00f1os.",
+        "image": "https://recipesblob.oetker.in/assets/b72049329c8742b98daf790c9ef937bd/1272x764/loaded-nachos.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 12,
+        "name": "Donuts",
+        "amt": "99",
+        "shop": "Donuts Shop",
+        "details": "Sweet, fried dough rings often glazed or sugared.",
+        "image": "https://www.yummytummyaarthi.com/wp-content/uploads/2014/12/5-6.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 13,
+        "name": "Cheeseburger",
+        "amt": "179",
+        "shop": "Cheeseburger Shop",
+        "details": "Burger with added cheese slice.",
+        "image": "https://www.superbread.com/assets/images/product/recipes/cheese-burger.webp",
+        "latest": "No"
+    },
+    {
+        "id": 14,
+        "name": "Soft Pretzel",
+        "amt": "250",
+        "shop": "Soft Pretzel Shop",
+        "details": "Baked twisted bread snack, often salted.",
+        "image": "https://www.allrecipes.com/thmb/IZi7FE2k4B8VA_VkAEaoac1CUY0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/24272-buttery-soft-pretzels-DDMFS-4x3-4a474236a103453cb90039cee8ac0ad5.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 15,
+        "name": "Ice Cream Cone",
+        "amt": "90",
+        "shop": "Ice Cream Shop",
+        "details": "Frozen dessert in a waffle cone.",
+        "image": "https://plus.unsplash.com/premium_photo-1675279010961-8a6679ff03da?fm=jpg&q=60&w=3000&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8aWNlJTIwY3JlYW0lMjBjb25lfGVufDB8fDB8fHww",
+        "latest": "No"
+    },
+    {
+        "id": 16,
+        "name": "Falafel Wrap",
+        "amt": "225",
+        "shop": "Falafel Wrap Shop",
+        "details": "Middle Eastern wrap with falafel, hummus, and veggies.",
+        "image": "https://cookingwithayeh.com/wp-content/uploads/2024/03/Falafel-Wrap-SQ-1.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 17,
+        "name": "Shawarma",
+        "amt": "80",
+        "shop": "Shawarma Shop",
+        "details": "Grilled meat wrap with garlic sauce and veggies.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkyg-TcrPvWpbwoMyhzhmHQycSllikSOJPqA&s",
+        "latest": "No"
+    },
+    {
+        "id": 18,
+        "name": "Kebab",
+        "amt": "160",
+        "shop": "Kebab Shop",
+        "details": "Grilled meat on skewers, served with salad or bread.",
+        "image": "https://www.licious.in/blog/wp-content/uploads/2023/01/Shutterstock_2142816551.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 19,
+        "name": "Samosa",
+        "amt": "30",
+        "shop": "Samosa Shop",
+        "details": "Fried pastry filled with spicy potatoes and peas.",
+        "image": "https://vegecravings.com/wp-content/uploads/2017/03/Aloo-Samosa-Recipe-Step-By-Step-Instructions.jpg",
+        "latest": "No"
+    },
+    {
+        "id": 20,
+        "name": "Spring Rolls",
+        "amt": "70",
+        "shop": "Spring Rolls Shop",
+        "details": "Fried rolls filled with vegetables or meat.",
+        "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2021/01/Spring-Roll-Recipe.jpg",
+        "latest": "Yes"
+    },
+    {
+        "id": 21,
+        "name": "Popcorn Chicken",
+        "amt": "130",
+        "shop": "Popcorn Chicken Shop",
+        "details": "Small, seasoned and fried chicken bites.",
+        "image": "https://www.licious.in/blog/wp-content/uploads/2020/12/Popcorn-Chicken.jpg",
+        "latest": "Yes"
+    }
+]
